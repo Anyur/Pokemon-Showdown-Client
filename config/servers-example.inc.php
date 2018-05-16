@@ -3,9 +3,9 @@
 $PokemonServers = array (
   'showdown' => 
   array (
-    'name' => 'Smogon University',
+    'name' => 'Master Showdown',
     'id' => 'showdown',
-    'server' => 'sim.psim.us',
+    'server' => 'master.psim.us',
     'port' => 8000,
   ),
 );
